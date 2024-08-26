@@ -34,7 +34,7 @@ YOLOv3-tiny utiliza uma rede neural convolucional com menos camadas, mantendo a 
 em imagens ou vídeos.
 
 #### Resultado:
-A imagem foi submetida ao pré-processamento de equalização a fim de destacar as pessoas do fundo da imagem e elevar o [
+A imagem foi submetida ao pré-processamento de equalização a fim de destacar as pessoas do fundo da imagem e elevar o 
 grau de confiança da detecção de "pessoa".
 ![resultado q01](./results/q02.PNG)
 
